@@ -2,7 +2,7 @@
     <application
         android:label="World Time App"
         android:name="${applicationName}"
-        android:icon="@mipmap/time-zones">
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:exported="true"
