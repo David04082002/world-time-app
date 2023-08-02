@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="Aldin's Aviary"
+        android:label="World Time App"
         android:name="${applicationName}"
-        android:icon="@mipmap/launcher_icon">
+        android:icon="@mipmap/time-zones">
         <activity
             android:name=".MainActivity"
             android:exported="true"
